@@ -1,2 +1,2 @@
 This is test2 file
-test number=2; 
+test number=2-1;
